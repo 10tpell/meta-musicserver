@@ -7,7 +7,7 @@ RDEPENDS_${PN} = "libao glibc"
 LICENSE = "NONE"
 LIC_FILES_CHKSUM = "file://LICENSE;md5=4c0adec6a9e9d37fddde09a27dd0151c"
 
-SRCREV = "78de9d7b63df66c3a9a0ae49398649327335d9c5"
+SRCREV = "975acc64f006d8ca29ae7dd36cd5270926f80044"
 SRC_URI = "git://github.com/10tpell/MusicServer.git \
            "
 
